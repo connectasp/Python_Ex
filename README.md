@@ -1,2 +1,2 @@
 # Python_Ex
-Pandas
+Pandas Exercise
